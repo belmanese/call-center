@@ -8,9 +8,8 @@
 -- Database creation must be done outside an multicommand file.
 -- These commands were put in this file only for convenience.
 -- -- object: new_database | type: DATABASE --
--- -- DROP DATABASE IF EXISTS new_database;
--- CREATE DATABASE new_database
--- ;
+DROP DATABASE IF EXISTS almundo;
+CREATE DATABASE almundo;
 -- -- ddl-end --
 -- 
 
